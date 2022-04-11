@@ -22,5 +22,13 @@ An Entity Relationship Digram (ERD) is a type of flowchart that specifies the re
 
 ![](images/EmployeeDB.png)
 
+## Results
+
+In Deliverable 1, the number of retiring employees have been calculated with their current titles.
+
+1. The retirement_titles.csv table is a list of employees born between 1952 and 1955 who are eligible for retirement.
+
+![](images/retirement_titles.png)
+
 
 
