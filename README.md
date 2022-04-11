@@ -48,7 +48,13 @@ From the above analysis, we can find that -
 ![](images/retiring_titles.png)
 
 4. Only current employees born in 1965 are eligible for a Mentorship Program.
-5. 1,549 employees are currently eligible to take part in the Mentorship Program.v
+5. 1,549 employees are currently eligible to take part in the Mentorship Program.
+
+## Summary
+
+1.	72,458 rolls will need to be filled as the “silver tsunami” begins to make an impact.
+2.	Overall, 1549 qualified, retirement-ready employees are available to mentor the next generation of Pewlett Hackard employees.
+
 
 
 
