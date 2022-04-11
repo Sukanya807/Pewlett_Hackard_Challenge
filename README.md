@@ -54,6 +54,11 @@ From the above analysis, we can find that -
 
 1.	72,458 rolls will need to be filled as the “silver tsunami” begins to make an impact.
 2.	Overall, 1549 qualified, retirement-ready employees are available to mentor the next generation of Pewlett Hackard employees.
+3.	Further analysis shows that the maximum number of retirements are set to happen in Development and Production departments.
+
+![](images/retirement_dept_dev31.png)
+
+
 
 
 
