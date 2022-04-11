@@ -8,7 +8,7 @@ Deliverable 1: The number of retiring employees by their current title
 
 Deliverable 2: The employees who are eligible for the Mentorship Program
 
-Deliverable 3: The number of vacancies in each department for each position and the number of mentors available per department
+Deliverable 3: The number of vacancies per department and the number of mentors available per department
 
 #### Software Used
 
