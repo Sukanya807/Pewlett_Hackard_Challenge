@@ -16,5 +16,11 @@ Deliverable 3: The number of vacancies in each department for each position and 
 - PostgreSQL for data analysis from relational database
 - pgAdmin GUI using SQL language
 
+#### ERD and Schema
+
+An Entity Relationship Digram (ERD) is a type of flowchart that specifies the relationships that can exist between entities. The QuickDBD software has been used to create this flowchart.
+
+![](images/EmployeeDB.png)
+
 
 
