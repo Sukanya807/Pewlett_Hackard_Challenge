@@ -58,6 +58,10 @@ From the above analysis, we can find that -
 
 ![](images/retirement_dept_dev31.png)
 
+4. Also, in terms of the number of mentors available, further analysis shows that the Development department has the highest number of mentors (417) while Quality Management department has the least number of mentors (70).
+
+![](images/mentors_by_dept.png)
+
 
 
 
