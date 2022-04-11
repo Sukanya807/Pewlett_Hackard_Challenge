@@ -36,8 +36,6 @@ In Deliverable 1, the number of retiring employees have been calculated with the
 
 - The retiring_titles.csv table counts the number of retiring employees for each title.
 
-![](images/retiring_titles.png)
-
 - In Deliverable 2, the mentorship_eligibility.csv table lists the number of eligible employees for a Mentorship Program 
 
 ![](images/mentorship_eligibility.png)
@@ -46,8 +44,11 @@ From the above analysis, we can find that -
 
 1. 72,458 employees born between 1952 and 1955 will be retiring from Pewlett-Hackard soon.
 2. Majority of the employees retiring are Senior Engineers (25,916) and Senior Staff (24,926).Therefore there will be many open positions for Senior Engineers and Senior Staff.
-3. Only current employees born in 1965 are eligible for a Mentorship Program.
-4. 1,549 employees are currently eligible to take part in the Mentorship Program.v
+
+![](images/retiring_titles.png)
+
+4. Only current employees born in 1965 are eligible for a Mentorship Program.
+5. 1,549 employees are currently eligible to take part in the Mentorship Program.v
 
 
 
