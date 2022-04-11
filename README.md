@@ -62,7 +62,7 @@ From the above analysis, we can find that -
 
 ![](images/mentors_by_dept.png)
 
-
+Therefore, one mentor will need to train approximately 
 
 
 
