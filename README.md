@@ -32,7 +32,11 @@ In Deliverable 1, the number of retiring employees have been calculated with the
 
 - The unique_titles.csv table is a list of all the current employees of Pewlwtt-Hackard born between 1952 and 1955 with their most recent titles.
 
+![](images/unique_titles.png)
+
 - The retiring_titles.csv table counts the number of retiring employees for each title.
+
+![](images/retiring_titles.png)
 
 - In Deliverable 2, the mentorship_eligibility.csv table lists the number of eligible employees for a Mentorship Program 
 
