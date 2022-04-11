@@ -26,11 +26,13 @@ An Entity Relationship Digram (ERD) is a type of flowchart that specifies the re
 
 In Deliverable 1, the number of retiring employees have been calculated with their current titles.
 
-1. The retirement_titles.csv table is a list of employees born between 1952 and 1955 who are eligible for retirement.
+- The retirement_titles.csv table is a list of employees born between 1952 and 1955 who are eligible for retirement.
 
-2. The unique_titles.csv table is a list of all the current employees of Pewlwtt-Hackard born between 1952 and 1955 with their most recent titles.
+- The unique_titles.csv table is a list of all the current employees of Pewlwtt-Hackard born between 1952 and 1955 with their most recent titles.
 
-3. The retiring_titles.csv table counts the number of retiring employees for each title.
+- The retiring_titles.csv table counts the number of retiring employees for each title.
+
+- In Deliverable 2, the mentorship_eligibility.csv table lists the number of eligible employees for a Mentorship Program 
 
 
 
