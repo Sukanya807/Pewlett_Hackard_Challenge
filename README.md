@@ -62,7 +62,7 @@ From the above analysis, we can find that -
 
 ![](images/mentors_by_dept.png)
 
-Therefore, one mentor will need to train approximately 
+Therefore, on a higher level, one mentor in each department will have to train more than 40 employees approximately which seems difficult. Since the ratio of retirement to eligible mentorship is so high, Pewlett Hackard will face great deficit in training the new employees.
 
 
 
