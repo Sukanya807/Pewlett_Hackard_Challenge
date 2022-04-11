@@ -10,3 +10,11 @@ Deliverable 2: The employees who are eligible for the Mentorship Program
 
 Deliverable 3: The number of vacancies in each department for each position and the number of mentors available per department
 
+#### Software Used
+
+- QuickDBD to create quick database design
+- PostgreSQL for data analysis from relational database
+- pgAdmin GUI using SQL language
+
+
+
