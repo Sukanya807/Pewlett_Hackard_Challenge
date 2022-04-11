@@ -28,11 +28,11 @@ In Deliverable 1, the number of retiring employees have been calculated with the
 
 1. The retirement_titles.csv table is a list of employees born between 1952 and 1955 who are eligible for retirement.
 
-![](images/retirement_titles.png)
-
 2. The unique_titles.csv table is a list of all the current employees of Pewlwtt-Hackard born between 1952 and 1955 with their most recent titles.
 
-![](images/unique_titles.png)
+3. The retiring_titles.csv table counts the number of retiring employees for each title.
+
+
 
 
 
