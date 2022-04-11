@@ -30,5 +30,9 @@ In Deliverable 1, the number of retiring employees have been calculated with the
 
 ![](images/retirement_titles.png)
 
+2. The unique_titles.csv table is a list of all the current employees of Pewlwtt-Hackard born between 1952 and 1955 with their most recent titles.
+
+![](images/unique_titles.png)
+
 
 
